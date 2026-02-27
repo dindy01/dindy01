@@ -1,4 +1,4 @@
-# Mouhamadou Dindy Ba
+# Hi there,
 
 Computer Science for Management student at University of Bologna.
 Seeking a 3–6 month software engineering internship (Jun–Dec 2026) 
